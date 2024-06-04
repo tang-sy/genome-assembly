@@ -1,0 +1,6 @@
+# Accession number
+Yarrowia lipolytica FELIX_MS119 sequencing data is downloaded from the NCBI SRA database under the accession number SRR28257203 and SRR28257240. Nanopore sequencing was performed by Nanopore MinION flow cell and the NGS is performed by Illumina MiSeq system. The files are not provided here due to large file size. 
+
+Bioproject: PRJNA607328
+long reads:SRX23867703: Yarrowia lipolytica FELIX_MS119 Nanopore, SRR28257203	
+short reads: SRX23867666: Yarrowia lipolytica FELIX_MS119 miSEQ, SRR28257240
