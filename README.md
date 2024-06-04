@@ -42,7 +42,7 @@ Most part of short reads assembled contigs overlaps with long reads assembled on
 Install all the prerequisites referring to [INSTALLATION](INSTALLATION.md) and follow step-by-step guide in scripts.
 
 ## Contributors
-- [Tang-sy](https://github.com/tang-sy) 
+- [tang-sy](https://github.com/tang-sy) 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
